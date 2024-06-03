@@ -1,4 +1,5 @@
 # Vehicles_Project
+![project_image](https://github.com/Shangdeptrai/Vehicles_Project/assets/149283589/df88bde9-ff88-4129-b81e-566ae91af22e)
 
 # Electric Vehicle Market Analysis with Power BI 
 
